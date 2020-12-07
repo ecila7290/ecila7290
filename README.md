@@ -3,7 +3,7 @@
 I am a junior Python&Django backend developer.<br>
 Eager to learn new things but also want to go deep down with my current knowledge.
 
-- 🔭 I’m currently working on clone coding team project
+- 🔭 I’m currently working on [NexClipper's opensource project](https://github.com/NexClipper/exporterhub)
 - 🌱 I’m currently learning Python, Django, AWS
 - 👯 I’m interested in Go, Docker
 
