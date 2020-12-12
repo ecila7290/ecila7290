@@ -4,7 +4,7 @@ I am a junior Python&Django backend developer.<br>
 Eager to learn new things but also want to go deep down with my current knowledge.
 
 - 🔭 I’m currently working on [NexClipper's opensource project](https://github.com/NexClipper/exporterhub.io)
-- 🌱 I’m currently learning Python, Django, AWS(EC2, RDS, S3 etc), Docker
+- 🌱 I’m currently using Python, Django, AWS(EC2, RDS, S3 etc), Docker
 - 👯 I’m interested in Go, Node.js
 
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihoon.kim89@gmail.com)](mailto:jihoon.kim89@gmail.com)
