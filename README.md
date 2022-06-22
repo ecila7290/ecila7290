@@ -3,7 +3,7 @@
 I am a junior Python & Flask backend developer.<br>
 Eager to learn new things and also want to go deep down with my current knowledge.
 
-- 🌱 I’m currently using Python, Flask, AWS(EC2, RDS, S3 etc), MongoDB.
+- 🌱 I’m currently using Python, Flask, Typescript, NestJS, AWS(EC2, RDS, S3 etc), MongoDB.
 - 👯 I’m interested in Go, Node.js.
 - 🎯 I have experience with Django, Docker, MySQL.
 - 🔭 Contributor of [Exporterhub.io](https://exporterhub.io)  ([Github repository](https://github.com/NexClipper/exporterhub.io)).
